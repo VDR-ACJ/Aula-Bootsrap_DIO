@@ -1,0 +1,8 @@
+Site Bootstrap para acessar a documentação
+https://getbootstrap.com/
+
+Repositorio de imagens gratuitas
+pexels.com
+
+Html color
+html-color-codes.info
